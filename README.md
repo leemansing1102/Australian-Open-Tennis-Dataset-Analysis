@@ -27,9 +27,11 @@ Key findings from the analysis of the dataset include:<br/>
 **Category 1: Player Performance Analysis**<br/>
 **Insight**: Top players like Djokovic and Federer show a high level of consistency in win ratios. The analysis of win/loss ratios reveals that endurance is critical for tournament success.<br/>
 **Recommendation**: Sports analysts can use these metrics to identify potential future champions and tailor training strategies that focus on consistency and adaptability.<br/>
+<br/>
 **Category 2: Nationality and Diversity Trends**<br/>
 **Insight**: There has been an increase in the diversity of champion nationalities over time, indicating a broader global growth of tennis.<br/>
 **Recommendation**: The Australian Open organizers could leverage this diversity by promoting the global reach of the tournament, attracting a wider audience and encouraging international participation.<br/>
+<br/>
 **Category 3: Gender-Specific Trends**<br/>
 **Insight**: The tournament has seen a balanced distribution between male and female champions, with notable performances from players such as Serena Williams and Margaret Smith.<br/>
 **Recommendation**: Marketing campaigns could highlight the long history of gender diversity at the Australian Open, positioning it as a pioneer in promoting inclusivity in sports.<br/>
@@ -39,6 +41,7 @@ Key findings from the analysis of the dataset include:<br/>
 
 ## Visualizations and Technical Details**
 The analysis includes several visualizations to support the findings:<br/>
+<br/>
 **Geographic Distribution Map**: Shows champion and runner-up concentrations across different countries.<br/>
 **Tree Map**: Visualizes the dominance of Australian champions and top players like Djokovic.<br/>
 **Scatter Plots**: Illustrate trends in champion nationalities over time and highlight top players' performance.<br/>
