@@ -41,7 +41,7 @@ Key findings from the analysis of the dataset include:<br/>
 **Insight**: Male champions' win ratios tend to flatten the more matches they play, indicating that consistency is key to success.<br/>
 **Recommendation**: Coaches and sports scientists could use these findings to develop training programs that focus on improving players' stamina and consistency throughout extended matches.<br/>
 
-## Visualizations and Technical Details**
+## Visualizations and Technical Details
 The analysis includes several visualizations to support the findings:<br/>
 <br/>
 **Geographic Distribution Map**: Shows champion and runner-up concentrations across different countries.<br/>
@@ -54,8 +54,8 @@ The analysis includes several visualizations to support the findings:<br/>
 
 
 ## Access the Full Analysis
-{Full Report: Australian Open Analysis (PDF)}
-{Dataset}
-{Tableau Dashboards}
+[Full Report: Australian Open Analysis (PDF)]
+[Dataset]
+[Tableau Dashboards]
 
 
