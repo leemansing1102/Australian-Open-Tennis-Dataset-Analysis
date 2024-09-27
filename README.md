@@ -4,6 +4,7 @@ The Australian Open is a prestigious tennis tournament with a history spanning o
 
 ## Data Overview & Structure
 The dataset used in this analysis is structured as a single table containing multiple attributes related to the tournament: <br/>
+<br/>
 • **Year**: The year the tournament took place. <br/>
 • **Champion & Runner-up**: Names of the players who reached the finals.<br/>
 • **Champion Nationality**: The country codes indicating the nationality of the champion.<br/>
@@ -33,7 +34,7 @@ Key findings from the analysis of the dataset include:<br/>
 **Recommendation**: The Australian Open organizers could leverage this diversity by promoting the global reach of the tournament, attracting a wider audience and encouraging international participation.<br/>
 <br/>
 **Category 3: Gender-Specific Trends**<br/>
-**Insight**: The tournament has seen a balanced distribution between male and female champions, with notable performances from players such as Serena Williams and Margaret Smith.<br/>
+**Insight**: The tournament has seen a balanced distribution between male and female champions, with notable performances from players such as Serena Williams and Margaret Smith.<
 **Recommendation**: Marketing campaigns could highlight the long history of gender diversity at the Australian Open, positioning it as a pioneer in promoting inclusivity in sports.<br/>
 **Category 4: Match Consistency and Set Analysis**<br/>
 **Insight**: Male champions' win ratios tend to flatten the more matches they play, indicating that consistency is key to success.<br/>
