@@ -34,8 +34,9 @@ Key findings from the analysis of the dataset include:<br/>
 **Recommendation**: The Australian Open organizers could leverage this diversity by promoting the global reach of the tournament, attracting a wider audience and encouraging international participation.<br/>
 <br/>
 **Category 3: Gender-Specific Trends**<br/>
-**Insight**: The tournament has seen a balanced distribution between male and female champions, with notable performances from players such as Serena Williams and Margaret Smith.<
+**Insight**: The tournament has seen a balanced distribution between male and female champions, with notable performances from players such as Serena Williams and Margaret Smith.
 **Recommendation**: Marketing campaigns could highlight the long history of gender diversity at the Australian Open, positioning it as a pioneer in promoting inclusivity in sports.<br/>
+<br/>
 **Category 4: Match Consistency and Set Analysis**<br/>
 **Insight**: Male champions' win ratios tend to flatten the more matches they play, indicating that consistency is key to success.<br/>
 **Recommendation**: Coaches and sports scientists could use these findings to develop training programs that focus on improving players' stamina and consistency throughout extended matches.<br/>
