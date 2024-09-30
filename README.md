@@ -3,7 +3,7 @@
 The Australian Open is a prestigious tennis tournament with a history spanning over 120 years (1906–2024). This project delves into the tournament's dataset to explore metrics and trends, providing insights into the champions, runner-ups, nationalities, and key statistics that have shaped the event. By analyzing data on players’ performances, nationalities, win rates, and match outcomes, this analysis sheds light on patterns and historical trends in one of tennis's most important competitions.
 
 ## Data Overview & Structure
-The dataset used in this analysis is structured as a single table containing multiple attributes related to the tournament: <br/>
+The dataset used for this analysis consists of two tables: Australian Open and Top5, which contain various attributes related to the tournament. The key elements of the dataset include: <br/>
 <br/>
 • **Year**: The year the tournament took place. <br/>
 • **Champion & Runner-up**: Names of the players who reached the finals.<br/>
@@ -17,11 +17,14 @@ The data was analyzed using **Excel** and **Tableu** to generate visual insights
 Key findings from the analysis of the dataset include:<br/>
 
 **Top Players**: Players such as Novak Djokovic, Roger Federer, and Margaret Smith have dominated the tournament, with Djokovic having secured 10 championships since 2008.<br/>
+<img width="883" alt="image" src="https://github.com/user-attachments/assets/4dcb4a15-f280-436f-bab4-de7d4513036c">
+
 **Diversity of Champions**: The tournament has seen an increasing diversity in champion nationalities, moving from a dominance of Australian, American, and European players to a more global presence in recent years.
-**Consistency and Adaptability**: Male champions’ win ratios flatten as they play more matches, indicating that consistency is crucial to success, while varying win ratios across sets demonstrate the importance of adaptability in competitive tennis.<br/>
+![image](https://github.com/user-attachments/assets/bf71bca7-1cdf-4a9b-b8be-21e49aa3c003)
+
 **Geographical Distribution**: Australia has been the leading country, with 94 champions and 98 runner-ups, reflecting its dominant tennis ecosystem over the years.: The tournament has seen an increasing diversity in champion nationalities, moving from a dominance of Australian, American, and European players to a more global presence in recent years.<br/>
-**Consistency and Adaptability**: Male champions’ win ratios flatten as they play more matches, indicating that consistency is crucial to success, while varying win ratios across sets demonstrate the importance of adaptability in competitive tennis.<br/>
-**Geographical Distribution**: Australia has been the leading country, with 94 champions and 98 runner-ups, reflecting its dominant tennis ecosystem over the years.<br/>
+![image](https://github.com/user-attachments/assets/afa02502-1367-45d2-88c6-85ef9ea4e5d0)
+
 
 ## Insights and Recommendations
 
