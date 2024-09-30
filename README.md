@@ -57,8 +57,8 @@ The analysis includes several visualizations to support the findings:<br/>
 
 
 ## Access the Full Analysis
-[Full Report: Australian Open Analysis (PDF)]
-[Dataset]
-[Tableau Dashboards]
+[Full Report: Australian Open Analysis (PDF)](https://github.com/leemansing1102/Australian-Open-Tennis-Dataset-Analysis/blob/main/Australian%20Open%20Analysis.pdf)
+[Dataset](https://github.com/leemansing1102/Australian-Open-Tennis-Dataset-Analysis/blob/main/Database)
+[Tableau Dashboards](https://github.com/leemansing1102/Australian-Open-Tennis-Dataset-Analysis/blob/main/Tennis%20Tournament%20Dashboard.twb)
 
 
